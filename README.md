@@ -3,7 +3,9 @@
 ### Final-Year Computer Engineering Student · AI & Machine Learning · GenAI & LLMs · RAG & Agentic AI · Data Science
 
 🎓 **Computer Engineering Student at IIT — Tunisia**
+
 📍 Sousse, Tunisia
+
 🎯 **Seeking a Final-Year Internship (PFE) starting February 2027**
 
 I build **AI-powered and data-driven software systems**, with a focus on **Generative AI, LLM applications, Retrieval-Augmented Generation, Agentic AI, Machine Learning, and Data Science**.
